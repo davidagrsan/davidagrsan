@@ -8,7 +8,7 @@ Currently, I am expanding my development skills using C# with the ASP.NET framew
 
 You can discover a little bit more about me on my LinkedIn Profile:
 
-<a href="https://www.linkedin.com/in/david-agredano-s%C3%A1nchez-27691b122/"target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/david-agredano-s%C3%A1nchez-27691b122/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ### Languages and Tools 🔨
 
