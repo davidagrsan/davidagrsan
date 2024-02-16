@@ -16,7 +16,7 @@ You can discover a little bit more about me on my LinkedIn Profile:
 
 ### Languages and Tools 🔨
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
@@ -32,11 +32,11 @@ You can discover a little bit more about me on my LinkedIn Profile:
 
 ### What I'm currently learning 📚
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 </div>
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <img src="https://komarev.com/ghpvc/?username=davidagrsan&color=blue&style=for-the-badge" alt="Profile Views">
 </div>
