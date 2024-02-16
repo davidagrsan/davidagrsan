@@ -39,6 +39,8 @@ You can discover a little bit more about me on my LinkedIn Profile:
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 </div>
 
+### Profile views 🔎
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=davidagrsan&color=blue&style=for-the-badge" alt="Profile Views">
 </div>
