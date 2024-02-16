@@ -8,7 +8,7 @@ Currently, I am expanding my development skills using C# with the ASP.NET framew
 
 You can discover a little bit more about me on my LinkedIn Profile:
 
-<a href="https://www.linkedin.com/in/david-agredano-s%C3%A1nchez-27691b122/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/david-agredano-s%C3%A1nchez-27691b122/"target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ### Languages and Tools 🔨
 
@@ -27,6 +27,6 @@ You can discover a little bit more about me on my LinkedIn Profile:
 ### What I'm currently learning 📚
 
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- [Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=davidagrsan&color=blue&style=for-the-badge)
