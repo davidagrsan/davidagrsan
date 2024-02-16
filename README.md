@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Who am I 👋
 
 Hi there! I'm David, Junior Web Developer in continuous training with experience in frontend and backend, trying to earn my name as a Full Stack.
@@ -39,4 +41,5 @@ You can discover a little bit more about me on my LinkedIn Profile:
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=davidagrsan&color=blue&style=for-the-badge" alt="Profile Views">
+</div>
 </div>
