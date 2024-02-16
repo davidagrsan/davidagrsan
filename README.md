@@ -1,6 +1,6 @@
 <div align="center">
 
-### Who am I 👋
+## Who am I 👋
 
 Hi there! I'm David, Junior Web Developer in continuous training with experience in frontend and backend, trying to earn my name as a Full Stack.
 
@@ -16,7 +16,7 @@ You can discover a little bit more about me on my LinkedIn Profile:
   </a>
 </div>
 
-### Languages and Tools 🔨
+## Languages and Tools 🔨
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -32,7 +32,7 @@ You can discover a little bit more about me on my LinkedIn Profile:
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
 </div>
 
-### What I'm currently learning 📚
+## What I'm currently learning 📚
 
 <div align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
