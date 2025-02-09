@@ -4,9 +4,9 @@
 
 Hi there! I'm David, Junior Web Developer in continuous training with experience in frontend and backend, trying to earn my name as a Full Stack.
 
-I work from the HTML5 base to visual builders such as WordPress. Proficient in PHP, Javascript, JS libraries and responsive design in CSS. Knowledge of SQL servers and hosting. In addition, I have knowledge of SEO and data analysis using tools such as Google Analytics and Google Tag Manager.
+I work from the HTML5 base to visual builders such as WordPress. Proficient in PHP, Javascript, JS libraries and responsive design in CSS. Knowledge of SQL servers and hosting. In addition, I have knowledge of SEO and data analysis using tools such as Google Analytics and Google Tag Manager, and also skills with C# with the ASP.NET framework and Microsoft Azure.
 
-Currently, I am expanding my development skills using C# with the ASP.NET framework and Microsoft Azure at Escola Esplai.
+Currently, expanding my knowledge in Java an React.
 
 You can discover a little bit more about me on my LinkedIn Profile:
 
